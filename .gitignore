@@ -1,0 +1,6 @@
+
+.idea/
+
+conf/db.yaml
+
+src/geckodriver.log
